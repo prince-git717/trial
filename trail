@@ -1,8 +1,125 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="5june.css".css">
     <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        html,body{
+            width: 100%;
+            height: 100%;
+        }
+        #man{
+            color: red;
+            background-color: black;
+        }
+        #condom{
+            color: rgb(13, 226, 63);
+            background-color: red;
+            width: 50%;
+            height: 50%;
+            font-weight: 900;
+        }
+        .naruto{
+            background-color: rgb(19, 213, 29);
+            font-weight: 900;
+            margin-top: 20px;
+        }
+        #karton{
+            background-color: crimson;
+            font-weight: 900;
+            margin-top: 20px;
+            text-decoration: overline;
+            text-transform: uppercase;
+            font-size: 3vw;
+        }
+        #uturn{
+            background-color: brown;
+            /* line-height: 0.5; */
+            font-size: calc(1vw + 1vh);
+        }
+        #minato{
+            font-size: 50px;
+            font-weight: 900;
+            background-color: coral;
+            color: rgb(0, 0, 0);
+            text-align: center;
+        }
+        #obito{
+            width: 200px;
+            height: 200px;
+            background-color: crimson;
+            margin: 20px 50px 20px 0px;
+            padding: 30px 30px 30px 0px;
+            border-radius: 20px;
+            border: 3px dashed white;
+        }
+        #apple{
+            position: absolute;
+            background-color: black;
+            width: 200px;
+            height: 200px;
+            margin: 30px 30px 30px 300px;
+        }
+        #mango{
+            background-color: crimson;
+            width: 200px;
+            height: 200px;
+            padding: 30px 40px 45px 20px;
+        }
+        #lichi{
+            background-color: green;
+            width: 200px;
+            height: 200px;
+            padding: 30px 30px 30px 30px;
+            margin: 20px;
+        }
+        #menu{
+            background-color: blue;
+            display: inline-block;
+            position: absolute;
+            margin: 30px 30px 30px 0px;
+            height: 100px;
+        }
+        #golu{
+            background-color: red;
+            width: 200px;
+            height: 200px;
+            display: inline-block;
+        }
+        #ranu{
+            position: relative;
+            background-color: crimson;
+            width: 200px;
+            height: 200px;
+        }
+        #yellow{
+            position: absolute;
+            background-color: yellow;
+            width: 30px;
+            height: 30px;
+            left: 40%;
+        }
+        #mobile{
+            background-color: rgb(44, 93, 22);
+            width: 200px;
+            height: 200px;
+            margin-left: 30px;
+            background: url(https://i.pinimg.com/736x/8c/63/d8/8c63d8a04615fa476acfe41ce2545f89.jpg);
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+        #mountain{
+            background-color: black;
+            width: 200px;
+            height: 200px;
+            /* background: linear-gradient(to right, red, orange, yellow, green); */
+            background: linear-gradient(to right, red 20%, yellow 80%);
+        }
+    </style>
 </head>
 <body>
     <div id="condom">
@@ -15,7 +132,7 @@
     <h4>Lorem ipsum dolor sit amet.</h4>
     <h5>Lorem ipsum dolor sit amet consectetur.</h5>
     <h6>Lorem ipsum dolor sit amet, consectetur adipisicing.</h6>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum repellendus corrupti eveniet ullam animi vel aliquam ipsa non debitis nobis eos temporibus praesentium modi perspiciatis vero consequuntur, quis inventore reprehenderit a delectus perferendis. Sequi, architecto, doloribus ad quo cupiditate culpa magnam saepe, laudantium dolor expedita veniam rem maxime quisquam. Quisquam sequi consequatur, ratione est expedita id eum obcaecati dignissimos recusandae atque autem alias adipisci blanditiis eligendi? Quod asperiores repellat doloribus, nisi voluptatibus excepturi est voluptatem alias, distinctio odit, voluptatum consectetur fugit? Dolor illo labore nam aperiam sapiente nostrum qui molestiae et molestias quae laboriosam non sit deserunt autem assumenda doloribus, iusto possimus explicabo. Commodi deleniti placeat nemo voluptates. Officiis unde numquam aperiam quas tempore esse. Maiores, dignissimos iure quos possimus ducimus ipsum? Dolorum magni autem fugit culpa at, natus unde quo odio facilis inventore quidem. Doloremque quas eveniet praesentium ullam laudantium error odit sit facere, eius laboriosam, omnis quis, consequuntur repellendus veritatis inventore tempore asperiores amet corrupti magni dolorem doloribus explicabo eos! Doloribus quisquam velit eos autem nulla! Libero laudantium cupiditate, quaerat saepe blanditiis rem qui accusantium dignissimos ea similique animi odio, consectetur a aliquid fuga nulla dolor, porro eum itaque voluptate obcaecati odit necessitatibus nisi debitis. Error dolorum ipsum ipsa repellendus perspiciatis officiis culpa tempora magni, ipsam dolore consectetur possimus, at dignissimos soluta minus nulla beatae accusantium repellat distinctio. Soluta voluptatibus eum quam facere ipsam doloribus molestiae totam, adipisci accusantium non quidem maiores quos atque? Porro facere modi quo quod aperiam quisquam quam vel perspiciatis atque veniam. Et consequuntur possimus omnis, molestiae libero, porro nemo consectetur aliquam nostrum neque minus quod doloribus debitis labore officia architecto, nulla eius distinctio qui in cum quam! Reprehenderit, fugiat, similique rem aliquam qui ex sequi enim quidem molestiae sed repudiandae exercitationem odio eius, magnam perspiciatis doloremque sapiente ab dignissimos incidunt perferendis porro voluptates impedit neque maxime. Commodi minus cum rem voluptatem a totam nisi neque excepturi voluptas voluptate eos corporis explicabo deserunt fugit sequi, aspernatur similique enim natus inventore eum obcaecati dolores error est placeat. Asperiores quo nobis, non dicta voluptatem, vero et facere deleniti quidem neque blanditiis distinctio! Vitae, cum autem, id ducimus corrupti nihil vel sed dolore totam quidem accusamus laudantium illo quia, sequi ab praesentium culpa temporibus voluptas iste commodi? Dicta, incidunt voluptate cum quia aliquam pariatur reiciendis odio! Aliquam commodi minus aut, voluptas quod rerum soluta laborum molestiae quas nesciunt ullam autem ducimus, in totam officia et provident?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum repellendus corrupti eveniet ullam animi vel aliquam ipsa non debitis nobis eos temporibus praesentium modi perspiciatis vero consequatur.</p>
     <a href="https://www.google.com"><img src="https://www.shutterstock.com/image-vector/digital-painting-boy-anime-style-600nw-2302127233.jpg" alt="image of a anime" width="200px" title="a photo"></a>
     <ol>
         <li>what
@@ -79,133 +196,11 @@
         <textarea placeholder="enter your text here" cols="30" rows="5"></textarea>
         <p>this is the game of loosing <u>what is this man</u> the area and the world <b>what</b> <i>what is going on </i></p>
         <h2>whis is the H<sub>2</sub>o 2<sup>34</sup></h2>
-        <h2 id="uturn">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi ducimus, dicta ut nobis obcaecati dolorem officiis dolore aut perspiciatis rem facilis alias quidem odit consequuntur omnis eos, fugiat, autem animi asperiores? Commodi consequuntur accusantium consectetur deleniti pariatur impedit corporis enim exercitationem iste repudiandae similique possimus dolore dolores, distinctio laborum doloremque cumque ducimus voluptatibus praesentium. Minus id, consequatur, voluptatibus quasi, magnam corrupti officiis sapiente debitis ad corporis dolore placeat eum ipsum provident voluptatem dolorem quibusdam! Quis, nulla quasi fugiat reiciendis quae harum numquam eum dolor, cumque quia aliquam optio ab doloremque saepe! Quae deleniti sed excepturi veritatis laudantium architecto officiis eligendi officia accusantium perferendis odio ea labore vero animi cupiditate enim maiores perspiciatis quaerat dolorum</h2>
+        <h2 id="uturn">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi ducimus, dicta ut nobis obcaecati dolorem officiis dolore aut perspiciatis rem facilis alias quidem odit consequuntur.</h2>
         <h4 id="minato">what is inside of the abdomen of the people</h4>        
     </form>
     <h1 id="menu">Lorem ipsum dolor sit amet consectetur adipisicing elit.</h1>
     <div id="golu"></div>
     <div id="mountain"></div>
-
 </body>
 </html>
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-    html,body{
-        width: 100%;
-        height: 100%;
-}
-#man{
-    color: red;
-    background-color: black;
-}
-#condom{
-    color: rgb(13, 226, 63);
-    background-color: red;
-    width: 50%;
-    height: 50%;
-    font-weight: 900;
-}
-.naruto{
-    background-color: rgb(19, 213, 29);
-    font-weight: 900;
-    margin-top: 20px;
-}
-#karton{
-    background-color: crimson;
-    font-weight: 900;
-   margin-top: 20px;
-    text-decoration: overline;
-    text-transform: uppercase;
-    font-size: 3vw;
-}
-#uturn{
-    background-color: brown;
-    /* line-height: 0.5; */
-    font-size: calc(1vw + 1vh);
-}
-#minato{
-    font-size: 50px;
-    font-weight: 900;
-    background-color: coral;
-    color: rgb(0, 0, 0);
-    text-align: center;
-}
-#obito{
-    width: 200px;
-    height: 200px;
-    background-color: crimson;
-    margin: 20px 50px 20px 0px;
-    padding: 30px 30px 30px 0px;
-    border-radius: 20px;
-    border: 3px dashed white;
-}
-#apple{
-    position: absolute;
-    background-color: black;
-    width: 200px;
-    height: 200px;
-    margin: 30px 30px 30px 300px;
-    
-
-}
-#mango{
-    background-color: crimson;
-    width: 200px;
-    height: 200px;
-    padding: 30px 40px 45px 20px;
-}
-#lichi{
-    background-color: green;
-    width: 200px;
-    height: 200px;
-    padding: 30px 30px 30px 30px;
-    margin: 20px;
-}
-#menu{
-    background-color: blue;
-    display: inline-block;
-    position: absolute;
-    margin: 30px 30px 30px 0px;
-    height: 100px;
-}
-#golu{
-    background-color: red;
-    width: 200px;
-    height: 200px;
-    display: inline-block;
-
-}
-#ranu{
-    position: relative;
-    background-color: crimson;
-    width: 200px;
-    height: 200px;
-    
-}
-#yellow{
-    position: absolute;
-    background-color: yellow;
-    width: 30px;
-    height: 30px;
-    left: 40%;
-}
-
-#mobile{
-    background-color: rgb(44, 93, 22);
-    width: 200px;
-    height: 200px;
-    margin-left: 30px;
-    background: url(https://i.pinimg.com/736x/8c/63/d8/8c63d8a04615fa476acfe41ce2545f89.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-#mountain{
-    background-color: black;
-    width: 200px;
-    height: 200px;
-    /* background: linear-gradient(to right, red, orange, yellow, green); */
-    background: linear-gradient(to right, red 20%, yellow 80%);
-}
